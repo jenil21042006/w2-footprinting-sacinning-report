@@ -1,1 +1,1 @@
-# w2-footprinting-sacinning-report
+# w2-footprinting-scaning-report
